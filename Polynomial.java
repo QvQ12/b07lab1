@@ -122,11 +122,11 @@ public class Polynomial {
    
     
     
- //   public Polynomial multiply(Polynomial A) {
+   public Polynomial multiply(Polynomial A) {
     	
     	
     	
- //   }
+   }
 
     
     
