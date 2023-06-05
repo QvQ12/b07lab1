@@ -1,5 +1,5 @@
 public class Polynomial {
-    double[]coefficients;
+    double[]non0_coefficients;
     
     public Polynomial() {
     	coefficients = new double[1];
